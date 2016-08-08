@@ -11,8 +11,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5cf2299c8864afe4ab42466f546ae20d, type: 3}
   m_Name: WorkshopItem
   m_EditorClassIdentifier: 
-  WorkshopPublishedFileID: 0
+  WorkshopPublishedFileID: 733438645
   Title: Anagrams
-  Description: 
-  PreviewImage: {fileID: 0}
-  Tags: []
+  Description: These letters are confusing. I think they're in the wrong order. Randomly
+    punching in the letters will eventually give me a word. One of the arrangements
+    must work, right?
+  PreviewImage: {fileID: 2800000, guid: 00aaab98b20855b46a08d2ecabe68399, type: 3}
+  Tags:
+  - Regular Module
